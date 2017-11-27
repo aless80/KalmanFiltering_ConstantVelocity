@@ -1,4 +1,4 @@
-# PredictingWages_Regression
+# KalmanFiltering_ConstantVelocity
 
 Python implementation of a case study in Module 5 of the MITProfessionalX course "Data Science: Data to insights".
 
