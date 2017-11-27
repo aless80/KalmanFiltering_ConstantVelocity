@@ -13,6 +13,6 @@ The case study is: "Module 2 Case Study - Kalman Filtering – Tracking Location
 ---
 
 ## The notebook
-[.ipynb](https://github.com/aless80/.ipynb)
+[Kalman filtering with constant velocity.ipynb](https://github.com/aless80/KalmanFiltering_ConstantVelocity/blob/master/Kalman%20filtering%20with%20constant%20velocity.ipynb)
 
 ---
